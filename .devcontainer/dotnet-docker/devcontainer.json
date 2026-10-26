@@ -24,7 +24,7 @@
     "postCreateCommand": "cd dotnet-docker && dotnet restore",
     "remoteUser": "vscode",
     "hostRequirements": {
-        "memory": "8gb",
+        "memory": "7gb",
         "cpus": 4
     },
     "portsAttributes": {
